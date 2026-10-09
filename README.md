@@ -12,7 +12,10 @@ Zde naleznete vzorové vypracování semestrální práce z předmětu Kinematik
 - Pokud zadání požaduje vykreslení grafu, lze použít libovolný vhodný nástroj, například Excel, MATLAB, Octave, Python nebo webovou aplikaci. Graf musí mít **popsané osy včetně jednotek** a požadovaný rozsah.
 - Použité symboly, body a členy mechanismu označujte jednotně v textu, rovnicích i obrázcích.
 
-Vzor ukazuje doporučenou strukturu a podrobnost vypracování a byl připraven pomocí [$\LaTeX$u](https://www.latex-project.org/), [Pythonu](https://www.python.org/) a grafického editoru [Ipe](https://ipe.otfried.org/).
+Vzor ukazuje doporučenou strukturu a podrobnost vypracování a byl připraven pomocí 
+sázecího systému [LaTeX](https://www.latex-project.org/),
+programovacího jazyka [Python](https://www.python.org/) 
+a vektorového grafického editoru [Ipe](https://ipe.otfried.org/).
 Použití těchto ani jiných konkrétních nástrojů není podmínkou získání zápočtu.
 
 ---
